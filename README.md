@@ -38,4 +38,4 @@ python manage.py runserver
 
 Navigate to the port you have configured for your Django server.
 
-<img src="https://imgur.com/a/XjLULet" data-canonical-src="hhttps://imgur.com/a/XjLULet" width="500" />
+<img src="https://github.com/j4m-3s/vitter-test/blob/sample/screenshot.png" data-canonical-src="https://github.com/j4m-3s/vitter-test/blob/sample/screenshot.png" width="500" />
